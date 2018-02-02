@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+botshock.digital-camp.com	TRUE	/	FALSE	1999999999	PHPSESSID	7poqsudammcavvi2du5puj4ai2
+botshock.digital-camp.com	TRUE	/	FALSE	1999999999	85893a7d6451fdbaf5a4fa47c804a937	a%3A1%3A%7Bs%3A8%3A%22location%22%3Bs%3A1%3A%221%22%3B%7D
+
